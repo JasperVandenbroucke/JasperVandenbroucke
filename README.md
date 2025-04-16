@@ -1,6 +1,29 @@
 [![MasterHead](GitHubProfileReadMe.png)](https://github.com/JasperVandenbroucke)
 
-![Anurag's GitHub stats](https://github-readme-stats-jasper-vandenbrouckes-projects-ca6fe48b.vercel.app/api?username=JasperVandenbroucke&show_icons=true&theme=noctis_minimus&rank_icon=github)
+### 👋 Hello you!
+
+I'm a **Bachelor's student in Applied Computer Science**, specializing in **Mobile and Enterprise Development**. I'm passionate about building software that truly serves user needs, and there's nothing quite like the satisfaction of delivering something that's genuinely appreciated. My main focus is on **web application development**, where I enjoy working **full stack** — from frontend design to backend architecture.
+
+___
+
+### 👨‍💻 What I Do
+
+- 🎓 Studying Applied Computer Science (Bachelor), with a Mobile & Enterprise Dev specialization
+- 💻 Passionate about full stack web development
+- 🚀 Always curious to explore new technologies and frameworks
+- 📱 Experience in building both mobile and enterprise-grade applications
+
+___
+
+### 📚 Beyond the Code
+
+Outside of coding, I’m an **avid reader**. I’m particularly drawn to Flemish and Dutch authors like **Jeroen Brouwers** and **Dimitri Verhulst**, but I also enjoy the works of literary giants like **Dostojevski**. Reading gives me space to reflect — something I find invaluable in both life and programming.
+
+Music is another big part of my life. I play **classical guitar**, enjoy attending 🎼 **classical concerts**, and also have a soft spot for 🎸 **rock music**.
+
+I'm also deeply interested in **politics**, both Belgian and international. A thoughtful debate or a deep political analysis can be just as engaging to me as writing clean code.
+
+___
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,6 +76,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=JasperVandenbroucke&color=brightgreen&abbreviated=true)
+
+![Anurag's GitHub stats](https://github-readme-stats-jasper-vandenbrouckes-projects-ca6fe48b.vercel.app/api?username=JasperVandenbroucke&show_icons=true&theme=noctis_minimus&rank_icon=github)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JasperVandenbroucke&theme=darkhub&no-bg=true&no-frame=true)
