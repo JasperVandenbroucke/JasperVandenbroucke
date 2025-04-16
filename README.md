@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasperVandenbroucke&show_icons=true&theme=noctis_minimus)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperVandenbroucke&langs_count=20&layout=compact)
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
