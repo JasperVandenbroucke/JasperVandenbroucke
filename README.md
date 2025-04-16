@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasperVandenbroucke&show_icons=true&theme=noctis_minimus)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasperVandenbroucke&show_icons=true&theme=noctis_minimus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperVandenbroucke&langs_count=20&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperVandenbroucke&langs_count=20&layout=compact)
