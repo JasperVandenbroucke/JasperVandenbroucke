@@ -16,7 +16,7 @@ ___
 
 ### 🔭 Beyond the Code
 
-Outside of coding, I’m an **avid reader**. I’m particularly drawn to Flemish and Dutch authors like **Jeroen Brouwers** and **Dimitri Verhulst**, but I also enjoy the works of literary giants like **Dostojevski**. Reading gives me space to reflect — something I find invaluable in both life and programming.
+Outside of coding, I’m an **avid reader**. I’m particularly drawn to Flemish and Dutch authors like **Jeroen Brouwers** and **Dimitri Verhulst**, but I also enjoy the works of literary giants like **Dostojevski**. Reading gives me space to reflect — something I find invaluable in life.
 
 Music is another big part of my life. I play **classical guitar**, enjoy attending 🎼 **classical concerts**, and also have a soft spot for 🎸 **rock music**.
 
@@ -76,3 +76,9 @@ ___
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
+
+___
+
+### 🤝🏼 Let's connect
+
+<a href="https://www.linkedin.com/in/jasper-vandenbroucke-028b342b8/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width:5%;" /></a>
